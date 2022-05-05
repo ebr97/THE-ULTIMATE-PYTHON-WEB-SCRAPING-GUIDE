@@ -14,3 +14,9 @@ In order for scraper to run you'll need firstly to go to Google APIs and create 
 
 ## Files
 main.py is the web scraper and cred.json represent the KEY that you've downloaded. These two files need to be in the same folder in order to work properly
+
+## Demonstration Video
+
+
+https://user-images.githubusercontent.com/90221077/166894129-0ca12ed6-2dee-4620-8ec6-b662e369ff9a.mp4
+
