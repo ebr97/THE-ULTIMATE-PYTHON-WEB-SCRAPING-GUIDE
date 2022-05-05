@@ -1,11 +1,12 @@
 {
-  "type": 
-  "project_id": 
-  "private_key_id": 
-  "private_key":
-  "client_id": 
-  "auth_uri": 
-  "token_uri": 
-  "auth_provider_x509_cert_url": 
-  "client_x509_cert_url": 
+  "type": "will be provided by the GOOGLE",
+  "project_id": "will be provided by the GOOGLE",
+  "private_key_id": "will be provided by the GOOGLE",
+  "private_key": "will be provided by the GOOGLE",
+  "client_email": "will be provided by the GOOGLE", this email needs to be add when you share your Google Sheets
+  "client_id": "will be provided by the GOOGLE",
+  "auth_uri": "will be provided by the GOOGLE",
+  "token_uri": "will be provided by the GOOGLE",
+  "auth_provider_x509_cert_url": "will be provided by the GOOGLE",
+  "client_x509_cert_url": "will be provided by the GOOGLE"
 }
