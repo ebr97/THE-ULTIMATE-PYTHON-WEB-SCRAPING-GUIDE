@@ -1,3 +1,5 @@
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 # Automate Google Sheets with gspread API
 
 In this project I will use gspread API to automatically update Google Sheets whenever the web scraper is run. This functionality is similar with creating a Database, because the user will have all the data in one place without creating aditional files.
