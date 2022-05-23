@@ -9,3 +9,6 @@ This functions can be used as a first step, whenever you need to scrape websites
 
 ## How it works
 The script will start a Chrome window, then will access the link using the webdriver. Using Selenium we'll imitate human behavour and automate the script part, parsing the username and password into the login form. We've added some delays (time.sleep()) to better imitate human interaction and to not be detected by anti-bot system. 
+
+## Demo Video
+https://vimeo.com/712775446/3b2a751d17
