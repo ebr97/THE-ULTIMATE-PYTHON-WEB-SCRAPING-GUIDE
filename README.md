@@ -4,3 +4,4 @@ Here you'll find a collection of Python web scraping projects with awsome tips a
 ## Table of contents
 - Automating Google Sheets using gspread API
 - Executable Python Web Scraper
+- Browser Automation
